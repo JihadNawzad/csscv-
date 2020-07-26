@@ -1,0 +1,215 @@
+body {
+  text-align: center;
+  margin: 0px;
+  color: #40514e;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+
+hr {
+  width: 4%;
+  border-top: dotted;
+  border-width: 6px 0px 0px 0px;
+  border-color: #EAF6F6;
+}
+.worning{
+  display: block;
+  width: 25%;
+  margin:auto;
+  color: yellow;
+  background-color: black;
+}
+.top-container {
+  background-color: #EAF6F6;
+  margin: 0px;
+  padding-top: 5.625rem;
+}
+
+.profile {
+  width: 30%;
+margin: auto;
+
+
+}
+
+.top-cloud {
+  height:3.750rem;
+  width: 9.375rem;
+  position: absolute;
+  right: 17.875rem;
+  top: 3, 75rem;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.left {
+  width: 25%;
+  float: left;
+  margin-right: 1.875rem;
+
+ border-radius: 95%;
+}
+.table{
+
+  width: 12.500rem;
+  margin: auto;
+  text-align: left;
+
+}
+
+.right {
+  width: 25%;
+  float: right;
+  margin-left: 1.875em;
+
+ border-radius: 95%;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+  margin: 3.125rem;
+}
+
+h2 {
+  font-family: 'Montserrat', arial, sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 0.625em;
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+
+.middle-container {
+  margin: 6.250em 0rem;
+
+}
+.year{
+  font-weight: bolder;
+  color: #66BFBF;
+}
+.name {
+  width: 30%;
+  margin: 3.125rem auto 0 auto;
+  padding-top: 10%;
+  font-size: 5.625rem;
+  padding: 0rem;
+}
+
+.a-programmer {
+  font-weight: bolder;
+  display: block;
+  width: 25%;
+  align-items: center;
+}
+
+.bottom-cloud {
+
+  height:3.750rem;
+  width: 9.375rem;
+  position: absolute;
+  left: 17.875rem;
+  bottom: 3.75rem;
+  display: block;
+}
+
+.mountain {
+  margin: 6px auto;
+  height: 31.250rem;
+  width: 45.500rem;
+  display: block;
+  width: 50%;
+
+}
+
+.jihad {
+  height: 12.500rem;
+  width: 12.500rem;
+  padding-top: 1.875rem;
+  display: block;
+  margin: auto;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 3.125rem 0rem 1.250em;
+  text-align: center;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.25rem;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0.625rem 1.250rem;
+  text-decoration: none;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 1.250em 0rem;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.btn-container {
+  background-color: #56bfbf;
+}
+
+.contact-me {
+  margin: 0rem auto 1.875rem auto;
+  display: block;
+  width: 50%;
+  text-align: center;
+}
+
+.btn {
+  box-shadow: 0rem 0rem 0rem 0.125em #9fb4f2;
+  background: linear-gradient(to bottom, ##66BFBF 5%, ##66BFBF 100%);
+  background-color: #66BFBF;
+  border-radius: 8px;
+  border: 1px solid #4e6096;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.188rem;
+  font-weight: bold;
+  padding: 0.688rem 2.500rem;
+  text-decoration: none;
+  text-shadow: 0rem 0.063rem 0rem #283966;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+  background-color: #476e9e;
+}
+
+.btn:active {
+  position: relative;
+  top: 0.063rem;
+}
